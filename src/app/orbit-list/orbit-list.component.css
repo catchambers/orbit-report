@@ -1,25 +1,25 @@
 
 .sortable {
     cursor: pointer;
-    color: #dd5;
+    color: rgb(85, 221, 176);
 }
 
 .warning {
-    background-color: #ebb35f;
+    background-color: #eb5f5f;
 }
 
 table {
-  color: rgb(46, 163, 0);
+  color: rgb(163, 0, 136);
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
   min-width: 250px;
-  background: #f5efef;
+  background: #dbebff;
 }
 
 .header-row {
-    background: #34495E;
-    color: #fff
+    background: #8735f1;
+    color: rgb(219, 217, 101)
 }
 
 th, td {
